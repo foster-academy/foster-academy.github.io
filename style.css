@@ -4,5 +4,12 @@ html {
 }
 
 .art-container {
+}
+
+.ascii-art {
     font-size: 6px;
+}
+
+.teletype {
+    font-size: 12px;
 }
